@@ -1,0 +1,4 @@
+# Two terms
+
+* master
+* origen
